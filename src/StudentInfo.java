@@ -1,6 +1,6 @@
 // Имя файла должно совпадать с именем класса
 // Файл: StudentInfo.java
-public class StudentInfo {
+public git commiyclass StudentInfo {
 
     // Метод main — точка входа в Java-программу
     public static void main(String[] args) {
