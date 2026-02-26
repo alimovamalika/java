@@ -1,0 +1,20 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+import java.util.Scanner;
+
+public class Task1 {
+   public Task1() {
+   }
+
+   public static void main(String[] args) {
+      Scanner sc = new Scanner(System.in);
+      double x = sc.nextDouble();
+      double y;
+      if (x < (double)0.0F) {
+         y = x * x;
+      } else {
+         y = (double)2.0F * x;
+      }
+
+      System.out.println(y);
+   }
+}
