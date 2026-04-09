@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class Task2 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String input = scanner.nextLine();
+        System.out.println(input.toUpperCase());
+        System.out.println(input.toLowerCase());
+    }
+}
